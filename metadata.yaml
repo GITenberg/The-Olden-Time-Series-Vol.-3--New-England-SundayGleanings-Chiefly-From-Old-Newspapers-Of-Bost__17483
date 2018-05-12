@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6693'
     url: http://www.gutenberg.org/2009/agents/6693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17483#The-Olden-Time-Series-Vol.-3--New-England-SundayGleanings-Chiefly-From-Old-Newspapers-Of-Bost_
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
