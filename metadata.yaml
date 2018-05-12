@@ -1,0 +1,30 @@
+_repo: The-Olden-Time-Series-Vol.-3--New-England-SundayGleanings-Chiefly-From-Old-Newspapers-Of-Bost__17483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Henry M. (Henry Mason)
+    alias: Brooks, Henry Mason
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '6693'
+    url: http://www.gutenberg.org/2009/agents/6693
+description: ''
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday'
+- !lcsh 'New England -- Social life and customs'
+- !lcc 'F001'
+title: 'The Olden Time Series, Vol. 3: New-England Sunday
+
+  Gleanings Chiefly From Old Newspapers Of Boston And Salem, Massachusetts'
+url: http://www.gutenberg.org/ebooks/17483
